@@ -63,7 +63,7 @@ input {
   font-family: inherit;
   border: none;
   border-radius: 3rem;
-  padding: 1.2rem 3.2rem;
+  padding: 1rem 2rem;
   font-size: 1rem;
   cursor: pointer;
 }
@@ -72,6 +72,7 @@ button {
   background-color: #283618;
   color: #fefae0;
   font-weight: bold;
+  margin-left: 1rem;
 }
 
 .list {
